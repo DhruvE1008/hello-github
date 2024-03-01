@@ -5,7 +5,7 @@ public class Greetings {
   public void sayHello() {
     // TODO Complete this method
 
-    String message = "Hi";
+    String message = "Hello! Hello!! Hello!!!";
     System.out.println(message);
   }
 
