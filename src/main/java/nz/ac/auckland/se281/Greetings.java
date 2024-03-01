@@ -11,6 +11,7 @@ public class Greetings {
   }
 
   public void greetPerson(String name) {
-    // TODO Complete this method
+    String message = MessageCli.HELLO_PERSON.getMessage(name);
+    System.out.println(message);
   }
 }
