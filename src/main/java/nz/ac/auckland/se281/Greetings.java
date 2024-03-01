@@ -7,7 +7,7 @@ public class Greetings {
   }
 
   public void sayGoodbye() {
-    // TODO Complete this method
+    MessageCli.GOODBYE.printMessage();
   }
 
   public void greetPerson(String name) {
