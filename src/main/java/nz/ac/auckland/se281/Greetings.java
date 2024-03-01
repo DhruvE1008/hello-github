@@ -3,10 +3,7 @@ package nz.ac.auckland.se281;
 public class Greetings {
 
   public void sayHello() {
-    // TODO Complete this method
-
-    String message = "Hello! Hello!! Hello!!!";
-    System.out.println(message);
+     MessageCli.HELLO.printMessage();
   }
 
   public void sayGoodbye() {
