@@ -6,7 +6,7 @@ public class Greetings {
     // TODO Complete this method
 
     String message = "Hi";
-    System.out.println(mesage);
+    System.out.println(message);
   }
 
   public void sayGoodbye() {
